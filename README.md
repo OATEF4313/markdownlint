@@ -1,5 +1,5 @@
-# markdownlint
-
+# Osama Atef 
+# Oatef4313@gmail.com
 > A Node.js style checker and lint tool for Markdown/CommonMark files.
 
 [![npm version][npm-image]][npm-url]
